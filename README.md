@@ -1,2 +1,2 @@
 # git-practicas
-git-practicas
+Conflicto de prueba
